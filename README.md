@@ -10,7 +10,7 @@ I’m continuously working through the challenges and will keep this repo update
 
 🏆 Certifications:
 Check out my Hackerrank certifications below!
-<img src="https://github.com/user-attachments/assets/83c5c759-7f1e-4a14-b878-a0eaf3d8a20e" alt="Certificate 1" width="250px">
-<img src="https://github.com/user-attachments/assets/3522a361-6d79-4f11-a7e2-d2b6ad32af1c" alt="Certificate 2" width="250px">
-<img src="https://github.com/user-attachments/assets/84730d18-6a3a-43f1-ba50-dc903e7630ad" alt="Certificate 3" width="250px">
+<img src="https://github.com/user-attachments/assets/83c5c759-7f1e-4a14-b878-a0eaf3d8a20e" alt="Certificate 1" width="300px">
+<img src="https://github.com/user-attachments/assets/3522a361-6d79-4f11-a7e2-d2b6ad32af1c" alt="Certificate 2" width="300px">
+<img src="https://github.com/user-attachments/assets/84730d18-6a3a-43f1-ba50-dc903e7630ad" alt="Certificate 3" width="300px">
 
