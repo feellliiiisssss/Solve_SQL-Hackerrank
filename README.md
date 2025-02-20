@@ -1,4 +1,4 @@
-#🚀 Hackerrank SQL Preparation Journey
+# 🚀 Hackerrank SQL Preparation Journey
 
 ![image](https://github.com/user-attachments/assets/024b88a3-1b9d-402f-8e55-23777f625f35)
 
